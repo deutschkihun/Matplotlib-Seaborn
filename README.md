@@ -3,7 +3,7 @@
 Matplotlib and seaborn are the fundatmental libraries in Python in order to visualize graph and dataset easily.
 In this tutorial following contents are discussed. 
 
-- Scatterplot
+- Scatterplot -- updating(*)
 - Bar Charts (Countplot,Histogram) 
 - Violinplot 
 - Heatmap 
