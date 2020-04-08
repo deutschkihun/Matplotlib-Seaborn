@@ -6,7 +6,7 @@ In this tutorial following contents are discussed.
 - Scatterplot -- updating(*)
 - Bar Charts (Countplot,Histogram) 
 - Violinplot 
-- Heatmap 
+- Heatmap -- updating(*)
 - Boxplot / Boxenplot -- updating(*)
 - Faceting -- updating(*)
 - Lineplot(tba) -- updating(*)
