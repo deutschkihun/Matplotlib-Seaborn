@@ -7,7 +7,7 @@ In this tutorial following contents are discussed.
 - Bar Charts(Countplot,Histogram) 
 - Violinplot 
 - Heatmap
-- Boxplot / Boxenplot 
+- Boxp(en)plot
 - Faceting 
 - Lineplot
 
