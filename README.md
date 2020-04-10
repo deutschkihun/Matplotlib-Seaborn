@@ -9,7 +9,8 @@ In this tutorial following contents are discussed.
 - Heatmap
 - Boxp(en)plot
 - Faceting 
-- Lineplot
+- Lineplot --updating(*)
+
 
 Of course there are a lot of plotting ways which we are not handling in this toturial. 
 Focus is that we learn most popular and useful plotting skill. 
