@@ -4,9 +4,9 @@ Matplotlib and seaborn are the fundatmental libraries in Python in order to visu
 In this tutorial following contents are discussed. 
 
 - Scatterplot 
-- Bar Charts (Countplot,Histogram) 
+- Bar Charts(Countplot,Histogram) 
 - Violinplot 
-- Heatmap -- updating(*)
+- Heatmap
 - Boxplot / Boxenplot -- updating(*)
 - Faceting 
 - Lineplot(tba) -- updating(*)
