@@ -9,7 +9,7 @@ In this tutorial following contents are discussed.
 - Heatmap
 - Boxp(en)plot
 - Faceting 
-- Lineplot --updating(*)
+- Lineplot 
 
 
 Of course there are a lot of plotting ways which we are not handling in this toturial. 
