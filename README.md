@@ -10,7 +10,7 @@ In this tutorial following contents are discussed.
 - Boxp(en)plot
 - Faceting 
 - Lineplot 
-- Factorplot -updating(*)
+- Factorplot
 - Kdeplot -updating(*)
 - lmplot -updating(*)
 
