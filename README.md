@@ -12,7 +12,7 @@ In this tutorial following contents are discussed.
 - Lineplot 
 - Factorplot
 - Kdeplot -updating(*)
-- lmplot -updating(*)
+- Multivariate Exploration of data
 
 
 Of course there are a lot of plotting ways which we are not handling in this toturial. 
