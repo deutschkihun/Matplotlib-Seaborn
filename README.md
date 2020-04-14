@@ -13,6 +13,7 @@ In this tutorial following contents are discussed.
 - Factorplot
 - Kdeplot -updating(*)
 - Multivariate Exploration of data
+- Color-palettes
 
 
 Of course there are a lot of plotting ways which we are not handling in this toturial. 
