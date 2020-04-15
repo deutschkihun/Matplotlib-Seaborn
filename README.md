@@ -14,6 +14,7 @@ In this tutorial following contents are discussed.
 - Kdeplot -updating(*)
 - Multivariate Exploration of data
 - Color-palettes
+- plot matrics
 
 
 Of course there are a lot of plotting ways which we are not handling in this toturial. 
