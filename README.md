@@ -11,7 +11,6 @@ In this tutorial following contents are discussed.
 - Faceting 
 - Lineplot 
 - Factorplot
-- Kdeplot -updating(*)
 - Multivariate Exploration of data
 - Color-palettes
 - plot matrics
